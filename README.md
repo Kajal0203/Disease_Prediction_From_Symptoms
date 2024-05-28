@@ -1,4 +1,5 @@
 **Predict diseases based on symptoms**
+
 Dataset created by transforming: https://www.kaggle.com/datasets/uom190346a/disease-symptoms-and-patient-profile-dataset
 User can enter at most 5 symptoms and get the *prediction for their diseas from 3 intependently running algorithms for accuracy
 1. Naive Bayes (Accuracy: 86%)
